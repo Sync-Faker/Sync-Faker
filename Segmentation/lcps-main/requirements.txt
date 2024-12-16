@@ -1,8 +1,0 @@
-pyyaml
-tqdm
-nuscenes-devkit
-numba
-lmdb
-dropblock
-scikit-image
-Cython
